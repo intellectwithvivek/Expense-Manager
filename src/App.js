@@ -1,5 +1,6 @@
 import react from "react";
 import Expenses from "./Components/Expenses/Expenses";
+import NewExpense from "./Components/NewExpense/NewExpense";
 import "./App.css";
 
 const App = () => {
@@ -38,7 +39,7 @@ const App = () => {
 
   return (
     <div className="welcome">
-      <h2>Welcome to Expense Manager App</h2>
+      <NewExpense/>
       <Expenses items={expenses} />
     </div>
   );
