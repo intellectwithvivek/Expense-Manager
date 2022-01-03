@@ -1,0 +1,6 @@
+This is the Expense Manager App
+
+      1. In this you can add your .
+      2. You can track your expenses.
+      3. Many more features are coming.......
+      4. Coming Soon.....
